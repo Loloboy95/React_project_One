@@ -1,0 +1,9 @@
+.title, .red{
+    border: seagreen solid;
+    font-style: oblique;
+    font-size: large;
+    text-align: center;
+    height: 10%;
+    width: 100px;
+
+}

@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import HelloWorld from './Components/Hello';
+import Loloboy from './App.js'
 
 
 // function HelloWorld(){
@@ -10,7 +11,8 @@ import HelloWorld from './Components/Hello';
 // }
 ReactDOM.render(
     //<HelloWorld/>,
-    <HelloWorld/>,
+    <Loloboy/>,
+    // <HelloWorld/>,
   document.getElementById('root')
 );
 
